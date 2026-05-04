@@ -30,3 +30,16 @@ Registros
 5.  Creo
 
 Para incluir un enlace basta con aja https:// 
+
+
+
+Para empezar con un sangrado
+
+>"Hacer tal cosa"
+>--jsjdosaof
+
+Como subir un proyecto a git
+- [x] git init
+- [x] git add .
+- [x] git commit -m "primer commit"
+- [ ] git push origin master  
