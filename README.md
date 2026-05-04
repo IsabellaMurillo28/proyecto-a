@@ -20,3 +20,11 @@ Lista de pendientes para hoy
 *Comer
 *Cenar
 *Comprar comida
+
+
+Registros
+1. Tal cosa
+2.  Tal aja
+3.  No se
+4.  Maybe
+5.  Creo
