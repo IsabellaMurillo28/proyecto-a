@@ -28,3 +28,5 @@ Registros
 3.  No se
 4.  Maybe
 5.  Creo
+
+Para incluir un enlace basta con aja https:// 
