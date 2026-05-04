@@ -4,7 +4,8 @@
 hola soledad
 # Encabezadfo 
 tal cosa
-Esra es una muestra de *texto en cursiva*
+
+Esta es una muestra de *texto en cursiva*
 
 Esta es una muestra de **de texto en negrilla**
 
@@ -14,3 +15,8 @@ Esta es una muestra de **de texto en negrilla**
 
 *_Todo cursiva y negrilla_**
 
+Lista de pendientes para hoy
+*Ir a la U
+*Comer
+*Cenar
+*Comprar comida
